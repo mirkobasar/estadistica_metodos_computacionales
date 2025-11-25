@@ -7,7 +7,7 @@ Este repositorio contiene scripts en Python para la descarga, procesamiento y an
 
 ```bash
 git clone [https://github.com/mirkobasar/estadistica_metodos_computacionales.git](https://github.com/mirkobasar/estadistica_metodos_computacionales.git)
-cd TU_REPO
+cd estadistica_metodos_computacionales
 ```
 
 ### 2. Crear entorno virtual
